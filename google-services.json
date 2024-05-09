@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105551629787",
+    "project_id": "free-elective-3-b8da7",
+    "storage_bucket": "free-elective-3-b8da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105551629787:android:49a4ac882ee967884cabfe",
+        "android_client_info": {
+          "package_name": "com.login.epcst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt56D_Er_VJnyX4tiW9RqPQYlpDEfAFBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
